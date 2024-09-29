@@ -37,4 +37,5 @@
 <li>Colors from [Color Pallet](https://colorhunt.co/).</li>
 
 <li>This site was built by [Taufeeq Mustafa](www.linkedin.com/in/s-taufeeq-mustafa-281a13221).</li>
+This project was built by [Taufeeq](https://github.com/taufeeq-mustafa/).
 
