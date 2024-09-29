@@ -6,4 +6,4 @@
 <h2>Installation Guide</h2>
 <h3>Prerequisites</h3>
 <li>The system must have Node.Js installed</li>
-<li><b>Postman<b>: for API testings</li>
+<li><b>Postman: for API testings</li>
