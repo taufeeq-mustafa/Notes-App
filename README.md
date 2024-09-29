@@ -16,7 +16,11 @@
 <li>Click Download zip.</li>
 <li>Go to your desktop and extract files and open them in VS code.</li>
 <li>Head to MongoDB Compass and set up a database, copy the connection string and paste it on config.json file in Backend folder.</li>
-<li>Open terminal and write command ``cd backend`` then ```npm run```.</li>
+<li>Open terminal and write command ``cd backend`` then 
+  ```
+  npm run
+  ```
+  .</li>
 <li>Open another terminal and run commands ``cd frontend`` and `cd notes-app` then 'npm run dev'.</li>
 <li>The application will run on localhost:5713, make a change in link and write localhost:5173/login and hit enter.</li>
 <li>Create account by providing credentials and start taking notes.</li>
