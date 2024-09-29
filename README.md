@@ -6,7 +6,7 @@
 <h3>Prerequisites</h3>
 <li>NodeJs for utilizing node modules</li>
 <li><br>Postman:for API testings</li> 
-<li><br>MongoDB:</li></br>for database services</li> 
+<li><br>MongoDB:</br>for database services</li> 
 <li><br>Tailwind:</li></br>for CSS components and frontend developemnt</li> 
 <h2>Steps of Installation</h2>
 <li>On github navigate to /taufeeq-mustafa/Notes-A</li>
