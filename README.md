@@ -33,9 +33,9 @@
 <li>Node Js</li>
 
 <h2>Materials used</h2>
-<li>Icons from [Google Icons](https://fonts.google.com/).</li>
-<li>Colors from [Color Pallet](https://colorhunt.co/).</li>
+- Icons from [Google Icons](https://fonts.google.com/).
+- Colors from [Color Pallet](https://colorhunt.co/).
+- This site was built by [Taufeeq Mustafa](https://www.linkedin.com/in/s-taufeeq-mustafa-281a13221/).
 
-<li>This site was built by [Taufeeq Mustafa](www.linkedin.com/in/s-taufeeq-mustafa-281a13221).</li>
-This project was built by [Taufeeq](https://github.com/taufeeq-mustafa/).
+
 
