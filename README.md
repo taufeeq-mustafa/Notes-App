@@ -5,7 +5,7 @@
 <h2>Installation Guide</h2>
 <h3>Prerequisites</h3>
 <li>NodeJs for utilizing node modules</li>
-<li><br>Postman:</br>for API testings</li> 
+<li><br>Postman:for API testings</li> 
 <li><br>MongoDB:</li></br>for database services</li> 
 <li><br>Tailwind:</li></br>for CSS components and frontend developemnt</li> 
 <h2>Steps of Installation</h2>
