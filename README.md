@@ -33,8 +33,8 @@
 <li>Node Js</li>
 
 <h2>Materials used</h2>
-Icons from [Google Icons](https://fonts.google.com/).
-Colors from [Color Pallet](https://colorhunt.co/).
+<li>Icons from [Google Icons](https://fonts.google.com/).</li>
+<li>Colors from [Color Pallet](https://colorhunt.co/).</li>
 
-This site was built by [Taufeeq Mustafa](www.linkedin.com/in/s-taufeeq-mustafa-281a13221).
+<li>This site was built by [Taufeeq Mustafa](www.linkedin.com/in/s-taufeeq-mustafa-281a13221).</li>
 
